@@ -18,7 +18,7 @@ import java.awt.*;
  */
 public class BasicDragger implements SelectListener
 {
-   String badString = "This string should be externalized";
+ //  String badString = "This string should be externalized";
    private final WorldWindow wwd;
     private boolean dragging = false;
 
