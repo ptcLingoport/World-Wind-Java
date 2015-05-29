@@ -20,6 +20,7 @@ public class GLDisplay
 
     private static final int DONT_CARE = -1;
     private static final String appTitle = "Vertex buffer objects - Modified String";
+    private static final String appTitleDupe = "Vertex buffer objects - Duplicated string for Lingoport.PTCWWJ";
 
     private JFrame frame;
     private GLCanvas glCanvas;
