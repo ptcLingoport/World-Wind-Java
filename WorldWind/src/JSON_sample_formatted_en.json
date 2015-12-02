@@ -22,7 +22,7 @@
 		"message": "Aug",
 	},
     "page_noaccess_header": {
-		"message": "Move along, there\'s nothing to see here"
+		"message": "Move along, there iss nothing to see here"
 	},
 	"date_range_picker_filter_description_this_week": {
 		"_description": "text for date range picker",
