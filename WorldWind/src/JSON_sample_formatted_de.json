@@ -1,0 +1,31 @@
+{
+"_LRM_PKTAG220":"OnePlanet_2_43 - FULL-FILE",
+    "grid_search_placeholder": {
+		"message": "_Teilt CEN L�nge nennt_"
+	},
+    "grid_column_picker_search_no_columns": {
+		"_description": "Displays when no columns are found for the specified search text.",
+		"message": "_Por nat�rlich gr��ten_"
+	},
+    "modal_footer_cancel_button": {
+		"_description": "Default lable text for modal cancel button",
+		"message": "_Ans�ssig_"
+	}, 
+    "modal_footer_primary_button": {
+		"_description": "Default lable text for modal primary button",
+		"message": "_Fauna_"
+	}, 
+    "month_short_april": {
+		"message": "_MBAS_"
+	},
+    "month_short_august": {
+		"message": "_Wei�_"
+	},
+    "page_noaccess_header": {
+		"message": "_M�gen Systeme, sp�tere denn GET�TIGTE het Gase zw�lf_"
+	},
+	"date_range_picker_filter_description_this_week": {
+		"_description": "text for date range picker",
+		"message": "_{0} etwa �LTER Weins_"
+	}
+}
