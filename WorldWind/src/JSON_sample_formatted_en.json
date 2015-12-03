@@ -1,11 +1,11 @@
 {
     "grid_search_placeholder": {
-		"_description": "Placeholder text in grid search box",
-		"message": "Find in this list"
+		"message": "Find in this list a new and improved process", 
+		"hint": "And a hint for this list"
 	},
     "grid_column_picker_search_no_columns": {
-		"_description": "Displays when no columns are found for the specified search text.",
-		"message": "No columns found"
+		"_description": "Displays when no results are found for the specified search text.",
+		"message": "No results found"
 	},
     "modal_footer_cancel_button": {
 		"_description": "Default lable text for modal cancel button",
