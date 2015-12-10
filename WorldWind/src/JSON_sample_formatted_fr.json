@@ -1,0 +1,32 @@
+{
+"_LRM_PKTAG207":"OnePlanet_3_44 - FULL-FILE",
+    "grid_search_placeholder": {
+		"message": "_Boues HCB rente Union � peut banc consultent r�ception_", 
+		"hint": "And a hint for this list"
+	},
+    "grid_column_picker_search_no_columns": {
+		"_description": "Displays when no results are found for the specified search text.",
+		"message": "_III pr�valoir bloquer_"
+	},
+    "modal_footer_cancel_button": {
+		"_description": "Default lable text for modal cancel button",
+		"message": "_Couvrant_"
+	}, 
+    "modal_footer_primary_button": {
+		"_description": "Default lable text for modal primary button",
+		"message": "_�tude_"
+	}, 
+    "month_short_april": {
+		"message": "_XIII_"
+	},
+    "month_short_august": {
+		"message": "_Vent_"
+	},
+    "page_noaccess_header": {
+		"message": "_Haute s�chage, s�rieux trou quatri�me est HCBD voire_"
+	},
+	"date_range_picker_filter_description_this_week": {
+		"_description": "text for date range picker",
+		"message": "_{0} ions tenue rev�t_"
+	}
+}

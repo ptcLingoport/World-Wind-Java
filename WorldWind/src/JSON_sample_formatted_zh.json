@@ -1,0 +1,32 @@
+{
+"_LRM_PKTAG55":"OnePlanet_3_47 - FULL-FILE",
+    "grid_search_placeholder": {
+		"message": "_��Ҳ���ܿ޼򵥻�������·�ϴӰ��ߵ���һ��ʵ���鲻�ɾ�ҩ�ⲻ��һ�����׵�������ô�˵�ǳ��ѻ��_", 
+		"hint": "And a hint for this list"
+	},
+    "grid_column_picker_search_no_columns": {
+		"_description": "Displays when no results are found for the specified search text.",
+		"message": "_�λ����з�ǻ�о���ʹ���������ƺ����_"
+	},
+    "modal_footer_cancel_button": {
+		"_description": "Default lable text for modal cancel button",
+		"message": "_��׾���һ������_"
+	}, 
+    "modal_footer_primary_button": {
+		"_description": "Default lable text for modal primary button",
+		"message": "_�Ҳ�Ը�뿪_"
+	}, 
+    "month_short_april": {
+		"message": "_���ߺ���_"
+	},
+    "month_short_august": {
+		"message": "_����һ��_"
+	},
+    "page_noaccess_header": {
+		"message": "_�����ߵ����������ƺ���ˣ��������ƺ���˰���������ô�˵�ǳ��ѻ�������ɲ��͵���������·��_"
+	},
+	"date_range_picker_filter_description_this_week": {
+		"_description": "text for date range picker",
+		"message": "_{0}������ɣ�Ӱ��ߵ����Ҳ�Ը�뿪_"
+	}
+}
