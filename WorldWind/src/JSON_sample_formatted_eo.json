@@ -1,10 +1,13 @@
 {
-  "grid_search_placeholder": {
-    "message": "[Ƒîñð îñ ţĥîš ļîšţ å ñéŵ åñð îɱþŕöṽéð þŕöçéšš------------------- П國カ내]",
-    "hint": "[Åñð å ĥîñţ ƒöŕ ţĥîš ļîšţ------------ П國カ내]"
+  "date_range_picker_filter_description_this_week": {
+    "message": "[{0} ƒöŕ ţĥîš ŵééķ---------- П國カ내]"
   },
   "grid_column_picker_search_no_columns": {
     "message": "[Ñö ŕéšûļţš ƒöûñð--------- П國カ내]"
+  },
+  "grid_search_placeholder": {
+    "hint": "[Åñð å ĥîñţ ƒöŕ ţĥîš ļîšţ------------ П國カ내]",
+    "message": "[Ƒîñð îñ ţĥîš ļîšţ å ñéŵ åñð îɱþŕöṽéð þŕöçéšš------------------- П國カ내]"
   },
   "modal_footer_cancel_button": {
     "message": "[Çåñçéļ----- П國カ내]"
@@ -20,8 +23,5 @@
   },
   "page_noaccess_header": {
     "message": "[Ṁöṽé åļöñĝ, ţĥéŕé îšš ñöţĥîñĝ ţö šéé ĥéŕé----------------- П國カ내]"
-  },
-  "date_range_picker_filter_description_this_week": {
-    "message": "[{0} ƒöŕ ţĥîš ŵééķ---------- П國カ내]"
   }
 }
