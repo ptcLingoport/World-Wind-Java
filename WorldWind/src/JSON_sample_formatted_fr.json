@@ -1,0 +1,32 @@
+{
+"_LRM_PKTAG912":"OnePlanet_9_44 - FULL-FILE",
+    "grid_search_placeholder": {
+		"message": "Find in this list a new and improved process", 
+		"hint": "And a hint for this list"
+	},
+    "grid_column_picker_search_no_columns": {
+		"_description": "Displays when no results are found for the specified search text.",
+		"message": "No results found"
+	},
+    "modal_footer_cancel_button": {
+		"_description": "Default lable text for modal cancel button",
+		"message": "Cancel"
+	}, 
+    "modal_footer_primary_button": {
+		"_description": "Default lable text for modal primary button",
+		"message": "Save"
+	}, 
+    "month_short_april": {
+		"message": "Apr"
+	},
+    "month_short_august": {
+		"message": "Aug"
+	},
+    "page_noaccess_header": {
+		"message": "Move along, there iss nothing to see here"
+	},
+	"date_range_picker_filter_description_this_week": {
+		"_description": "text for date range picker",
+		"message": "{0} for this week"
+	}
+}
