@@ -1,4 +1,5 @@
 {
+	"grid_main":"Grid Main",
     "grid_search_placeholder": {
 		"message": "Find in this list a new and improved process", 
 		"hint": "And a hint for this list"
