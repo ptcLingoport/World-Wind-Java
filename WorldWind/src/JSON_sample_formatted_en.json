@@ -14,7 +14,7 @@
 	}, 
     "modal_footer_primary_button": {
 		"_description": "Default lable text for modal primary button",
-		"message": "Save"
+		"message": "Save the Pigeons"
 	}, 
     "month_short_april": {
 		"message": "Apr"
