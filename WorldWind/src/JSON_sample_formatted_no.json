@@ -1,32 +1,28 @@
 {
-"_LRM_PKTAG717":"OnePlanet_3_45 - FULL-FILE",
-    "grid_search_placeholder": {
-		"message": "_Meals lid drive empty a care dark persistent empowered_", 
-		"hint": "And a hint for this list"
-	},
-    "grid_column_picker_search_no_columns": {
-		"_description": "Displays when no results are found for the specified search text.",
-		"message": "_Fed important feature_"
-	},
-    "modal_footer_cancel_button": {
-		"_description": "Default lable text for modal cancel button",
-		"message": "_Entirely_"
-	}, 
-    "modal_footer_primary_button": {
-		"_description": "Default lable text for modal primary button",
-		"message": "_Loose_"
-	}, 
-    "month_short_april": {
-		"message": "_Beet_"
-	},
-    "month_short_august": {
-		"message": "_Your_"
-	},
-    "page_noaccess_header": {
-		"message": "_Bulbs nervous, nearest min. roll-over but Iris input_"
-	},
-	"date_range_picker_filter_description_this_week": {
-		"_description": "text for date range picker",
-		"message": "_{0} than least blend_"
-	}
+  "_LRM_PKTAG366": "OnePlanet_13_45 - CHANGES-ONLY",
+  "date_range_picker_filter_description_this_week": {
+    "message": "_{0} than least blend_"
+  },
+  "grid_column_picker_search_no_columns": {
+    "message": "_Fed important feature_"
+  },
+  "grid_search_placeholder": {
+    "hint": "And a hint for this list",
+    "message": "_Meals lid drive empty a care dark persistent empowered_"
+  },
+  "modal_footer_cancel_button": {
+    "message": "_Entirely_"
+  },
+  "modal_footer_primary_button": {
+    "message": "Save the Pigeons"
+  },
+  "month_short_april": {
+    "message": "_Beet_"
+  },
+  "month_short_august": {
+    "message": "_Your_"
+  },
+  "page_noaccess_header": {
+    "message": "_Bulbs nervous, nearest min. roll-over but Iris input_"
+  }
 }
